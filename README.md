@@ -13,7 +13,7 @@
 
 
 <p align=left>
-  <img align=left width="410"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyBorn888&layout=compact&theme=chartreuse-dark&show_icons=true" />
-  <img align=left width="420"  src="https://github-readme-stats.vercel.app/api?username=SkyBorn888&count_private=true&theme=chartreuse-dark&show_icons=true" />
+  <img align=left width="380"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyBorn888&layout=compact&theme=chartreuse-dark&show_icons=true" />
+  <img align=left width="390"  src="https://github-readme-stats.vercel.app/api?username=SkyBorn888&count_private=true&theme=chartreuse-dark&show_icons=true" />
 </p>
 
