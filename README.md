@@ -10,10 +10,10 @@ Hello I am Hiroxbon :3
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
 
-
-
-<p align=left>
-  <img align=left width="380"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyBorn888&layout=compact&theme=chartreuse-dark&show_icons=true" />
-  <img align=left width="390"  src="https://github-readme-stats.vercel.app/api?username=SkyBorn888&count_private=true&theme=chartreuse-dark&show_icons=true" />
-</p>
+<div class='container'>
+<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=SkyBorn888&show_icons=true&theme=chartreuse-dark" />
+&nbsp;
+&nbsp;
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyBorn888&theme=chartreuse-dark&langs_count=8&layout=compact" />
+</div>
 
