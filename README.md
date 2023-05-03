@@ -22,11 +22,3 @@
 &nbsp;
 <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyBorn888&theme=chartreuse-dark&langs_count=8&layout=compact" />
 </div>
-
-<div class='container'>
-  
-<a href="https://github.com/SkyBorn888/Quick-Copy"><img style="height: auto; width: 45%;" class="img"  src="https://github-readme-stats.vercel.app/api/pin/?username=SkyBorn888&repo=Quick-Copy&theme=chartreuse-dark" link= />
-&nbsp;
-&nbsp;
-<a href="https://github.com/SkyBorn888/Pydo"><img style="height: auto; width: 45%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=SkyBorn888&repo=Pydo&theme=chartreuse-dark" />
-</div>
